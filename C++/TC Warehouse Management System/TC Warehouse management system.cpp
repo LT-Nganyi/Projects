@@ -225,6 +225,7 @@ void goBack()
 
 int main()
 {
+	system("mkdir Data);
 	InitialiseVectors();
 
 	int option;
