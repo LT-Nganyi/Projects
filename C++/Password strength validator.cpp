@@ -1,4 +1,5 @@
 ///Code to calidate the strength of a password and give the specifications.
+// This code tries to validate the strength of a password to have a capitsl letter, a number and some special characters.
 
 #include<iostream>
 #include<bits/stdc++.h>
