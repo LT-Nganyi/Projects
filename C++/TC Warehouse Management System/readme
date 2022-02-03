@@ -1,1 +1,2 @@
 This file mimics a warehouse management system where a product is assigned a storage location and the product location can then be reterived and sent to the warehouse person to find the product easily.
+A new product can then be added to the warehouse, being assigned a location that is empty, either from a recently removed product or to the next available free location. 
