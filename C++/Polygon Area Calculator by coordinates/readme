@@ -1,2 +1,3 @@
 This code accomplishes to calculate the ara of any polygon of at least 3 sides 
 The basic principle is that the coordinates of the vertices are input and the program executes some computations to produce an area
+Fairly straight forward and built with C++ 14
