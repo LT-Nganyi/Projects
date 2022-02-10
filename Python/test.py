@@ -2,4 +2,7 @@
 
 print("Hi this works!")
 
-print("Git commits")
+
+print("test 2")
+
+# Take 2 for the git control 
