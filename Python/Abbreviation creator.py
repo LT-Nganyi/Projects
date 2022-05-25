@@ -9,3 +9,4 @@ for x in word:
             continue
 
 print(".".join(abbr))
+print('Done')
